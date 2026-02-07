@@ -1,0 +1,20 @@
+# Dependencies
+node_modules
+/node_modules
+
+# Build outputs
+dist
+/out
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large Media Files (Downloads & Renders)
+public/*.mp4
+public/*.wav
+public/*.mp3
+out/*.mp4
+
+# Environment variables
+.env

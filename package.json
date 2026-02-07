@@ -1,0 +1,27 @@
+{
+  "name": "remotion-short",
+  "version": "1.0.0",
+  "description": "Andrew Ng Short",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion bundle",
+    "render": "remotion render Short out/short.mp4"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.409",
+    "@remotion/captions": "^4.0.419",
+    "@remotion/cli": "4.0.409",
+    "@remotion/google-fonts": "^4.0.419",
+    "@remotion/media": "4.0.409",
+    "@remotion/renderer": "4.0.409",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "remotion": "4.0.409",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
