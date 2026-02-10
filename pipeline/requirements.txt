@@ -1,0 +1,4 @@
+openai-whisper
+google-genai
+boto3
+yt-dlp

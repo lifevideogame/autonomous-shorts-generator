@@ -1,0 +1,235 @@
+{
+  "categories": [
+    {
+      "name": "Gaming & Strategy",
+      "tag": "gaming",
+      "note": "High Retention, Needs Clips",
+      "creators": [
+        {
+          "id": 1,
+          "name": "Cjya",
+          "niche": "Mario/Nintendo",
+          "note": "Fast-growing, very clip-able",
+          "channel_url": "https://www.youtube.com/@Cjya"
+        },
+        {
+          "id": 2,
+          "name": "Failboat",
+          "niche": "Nintendo",
+          "note": "Chaos editing, perfect for Kimi",
+          "channel_url": "https://www.youtube.com/@Failboat"
+        },
+        {
+          "id": 3,
+          "name": "Wirtual",
+          "niche": "Trackmania",
+          "note": "Huge on Twitch, needs more shorts volume",
+          "channel_url": "https://www.youtube.com/@Wirtual"
+        },
+        {
+          "id": 4,
+          "name": "Kelp",
+          "niche": "Minecraft",
+          "note": "Story-based, great for Part 1/Part 2 shorts",
+          "channel_url": "https://www.youtube.com/@Kelp"
+        },
+        {
+          "id": 5,
+          "name": "Rav",
+          "niche": "Variety",
+          "note": "Part of the expect chaos group",
+          "channel_url": "https://www.youtube.com/@Rav"
+        },
+        {
+          "id": 6,
+          "name": "Insym",
+          "niche": "Phasmophobia",
+          "note": "Horror clips do incredible numbers",
+          "channel_url": "https://www.youtube.com/@Insym"
+        },
+        {
+          "id": 7,
+          "name": "Skurry",
+          "niche": "Hollow Knight",
+          "note": "Speedrunner, chill vibes",
+          "channel_url": "https://www.youtube.com/@Skurry"
+        },
+        {
+          "id": 8,
+          "name": "Linkus7",
+          "niche": "Zelda",
+          "note": "Speedrunner",
+          "channel_url": "https://www.youtube.com/@Linkus7"
+        },
+        {
+          "id": 9,
+          "name": "Simply",
+          "niche": "Mario 64",
+          "note": "Speedrunner/Variety",
+          "channel_url": "https://www.youtube.com/@Simply"
+        },
+        {
+          "id": 10,
+          "name": "LilAggy",
+          "niche": "Sekiro/Souls",
+          "note": "Challenge runs",
+          "channel_url": "https://www.youtube.com/@LilAggy"
+        }
+      ]
+    },
+    {
+      "name": "Tech & Coding",
+      "tag": "tech",
+      "note": "High CPM",
+      "creators": [
+        {
+          "id": 11,
+          "name": "T3.gg",
+          "niche": "Web Dev",
+          "note": "Very active, opinionated takes",
+          "channel_url": "https://www.youtube.com/@t3dotgg"
+        },
+        {
+          "id": 12,
+          "name": "Theo - t3.gg",
+          "niche": "Web Dev",
+          "note": "Same guy, other channels",
+          "channel_url": "https://www.youtube.com/@t3dotgg"
+        },
+        {
+          "id": 13,
+          "name": "Melkey",
+          "niche": "Coding/Vim",
+          "note": "Funny, meme-heavy",
+          "channel_url": "https://www.youtube.com/@Melkey"
+        },
+        {
+          "id": 14,
+          "name": "Dreams of Code",
+          "niche": "Educational",
+          "note": "Educational",
+          "channel_url": "https://www.youtube.com/@dreamsofcode"
+        },
+        {
+          "id": 15,
+          "name": "Low Level Learning",
+          "niche": "Systems Programming",
+          "note": "Systems programming",
+          "channel_url": "https://www.youtube.com/@LowLevelLearning"
+        },
+        {
+          "id": 16,
+          "name": "Internet Made Coder",
+          "niche": "Career/Lifestyle",
+          "note": "Career/Lifestyle",
+          "channel_url": "https://www.youtube.com/@InternetMadeCoder"
+        },
+        {
+          "id": 17,
+          "name": "ForrestKnight",
+          "niche": "Career",
+          "note": "Career",
+          "channel_url": "https://www.youtube.com/@ForrestKnight"
+        },
+        {
+          "id": 18,
+          "name": "Neetcode",
+          "niche": "Leetcode/Interviews",
+          "note": "HUGE potential for shorts",
+          "channel_url": "https://www.youtube.com/@NeetCode"
+        },
+        {
+          "id": 19,
+          "name": "Kenny Gunderman",
+          "niche": "Tech Skits",
+          "note": "Funny tech skits",
+          "channel_url": "https://www.youtube.com/@KennyGunderman"
+        },
+        {
+          "id": 20,
+          "name": "Hardware Haven",
+          "niche": "PC Building",
+          "note": "PC building niche",
+          "channel_url": "https://www.youtube.com/@HardwareHaven"
+        }
+      ]
+    },
+    {
+      "name": "Commentary & Niche",
+      "tag": "commentary",
+      "note": "",
+      "creators": [
+        {
+          "id": 21,
+          "name": "Turkey Tom",
+          "niche": "Commentary",
+          "note": "Constant drama news, needs infinite clips",
+          "channel_url": "https://www.youtube.com/@TurkeyTom"
+        },
+        {
+          "id": 22,
+          "name": "WillyMacShow",
+          "niche": "Commentary",
+          "note": "Rising fast",
+          "channel_url": "https://www.youtube.com/@WillyMacShow"
+        },
+        {
+          "id": 23,
+          "name": "Vadim M",
+          "niche": "Tech/Retro",
+          "note": "Niche but loyal",
+          "channel_url": "https://www.youtube.com/@VadimM"
+        },
+        {
+          "id": 24,
+          "name": "DankPods",
+          "niche": "Audio",
+          "note": "Hilarious, chaotic",
+          "channel_url": "https://www.youtube.com/@DankPods"
+        },
+        {
+          "id": 25,
+          "name": "Garand Thumb",
+          "niche": "Gun/Mil-Sim",
+          "note": "High production, needs funny moments extracted",
+          "channel_url": "https://www.youtube.com/@GarandThumb"
+        },
+        {
+          "id": 26,
+          "name": "OperatorDrewski",
+          "niche": "Mil-Sim",
+          "note": "Tactical gaming",
+          "channel_url": "https://www.youtube.com/@OperatorDrewski"
+        },
+        {
+          "id": 27,
+          "name": "General Sam",
+          "niche": "Gaming/Podcast",
+          "note": "Chaos",
+          "channel_url": "https://www.youtube.com/@GeneralSam"
+        },
+        {
+          "id": 28,
+          "name": "AquaFPS",
+          "niche": "Tarkov/Loot",
+          "note": "The Loot Goblin style",
+          "channel_url": "https://www.youtube.com/@AquaFPS"
+        },
+        {
+          "id": 29,
+          "name": "Exfiltrator",
+          "niche": "Tarkov",
+          "note": "Niche",
+          "channel_url": "https://www.youtube.com/@Exfiltrator"
+        },
+        {
+          "id": 30,
+          "name": "Pestily",
+          "niche": "Tarkov",
+          "note": "He streams 10 hours a day. He needs volume",
+          "channel_url": "https://www.youtube.com/@Pestily"
+        }
+      ]
+    }
+  ]
+}

@@ -16,5 +16,10 @@ public/*.wav
 public/*.mp3
 out/*.mp4
 
+# Pipeline data & state
+data/
+pipeline_state.db
+
 # Environment variables
 .env
+__pycache__/

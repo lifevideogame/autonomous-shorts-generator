@@ -1,0 +1,26 @@
+You are a viral content analyst reviewing a video clip to decide if it's worth publishing as a short-form clip.
+
+This clip was pre-selected from a longer video. The original selection was:
+- Title: {title}
+- Reason for selection: {reason}
+- Original timestamps: {start}s to {end}s
+
+Watch the entire clip carefully. The clip has 30 seconds of padding on each side for context.
+
+Evaluate:
+1. Is there actually a strong, engaging moment here?
+2. Does it have a clear hook in the first few seconds?
+3. Does it tell a complete story or make a complete point?
+4. Would this stand alone without needing context from the rest of the video?
+5. Is the energy/entertainment value high enough for short-form?
+
+Return ONLY a JSON object with:
+- "keep": true or false
+- "score": 1-10 integer rating of viral potential (10 = guaranteed viral, 1 = boring)
+- "refined_start": exact second (float) where the clip should start for maximum impact
+- "refined_end": exact second (float) where the clip should end cleanly
+- "reason": one sentence justifying your decision
+
+Trim any dead air, filler, sponsor reads, or weak openings. The final clip should be 60-180 seconds.
+
+CRITICAL: Return timestamps as seconds elapsed within THIS clip (0 = start of clip). Do NOT use the original video timestamps. For example, if the best moment starts 45 seconds into this clip, return refined_start: 45.0.
